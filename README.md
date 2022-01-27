@@ -1,2 +1,4 @@
-# movie_robot
-可以自动从豆瓣用户的想看、在看、看过列表中自动获取电影，并通过mteam查找种子，提交到qbittorrent中下载（依赖Emby管理影视原数据）
+# 说明
+发现了一些人，拿走代码随便改一下，就二次宣传，没有跟我打过任何招呼，非常生气。所以决定不再开源。
+# Docker官方镜像
+https://registry.hub.docker.com/r/yipengfei/movie-robot/
