@@ -11,6 +11,8 @@ https://registry.hub.docker.com/r/yipengfei/movie-robot/
 任何人都可以搜索movie-robot直接安装镜像，但是为了控制用户量，保证作者的更新热情，打赏一杯咖啡，即可获得永久授权码，加入vip讨论群。
 # 赞赏一下
 <img src="https://raw.githubusercontent.com/pofey/movie_robot/main/pay.png" width="220" height="220" alt="赞赏码" style="float: left;"/>
+
 # 作者微信
 凭打赏获得激活码
-<img src="https://raw.githubusercontent.com/pofey/movie_robot/main/wechat.png" width="244" height="314" alt="微信" style="float: left;"/>
+
+<img src="https://raw.githubusercontent.com/pofey/movie_robot/main/wechat.png" width="538" height="632" alt="微信" style="float: left;"/>
